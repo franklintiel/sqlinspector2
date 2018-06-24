@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="sqlinspector2",
-    version="1.0.1",
+    version="1.0.6",
     author="Franklin Sarmiento",
     author_email="franklinitiel@gmail.com",
     description="Middleware that allow check the times applied and the SQL amount used on any request and response process on django",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/franklintiel/sqlinspector2.git",
+    url="https://franklintiel.github.io/sqlinspector2/",
     license="MIT",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     keywords="sql inspector sqlinspector django2",
     project_urls={
-        'Documentation': "https://github.com/franklintiel/sqlinspector2",
+        'Documentation': "https://franklintiel.github.io/sqlinspector2/",
         'Source': "https://github.com/franklintiel/sqlinspector2",
         'Tracker': "https://github.com/franklintiel/sqlinspector2/issues"
     },
