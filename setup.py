@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="sqlinspector2",
-    version="1.0.0",
+    version="1.0.1",
     author="Franklin Sarmiento",
     author_email="franklinitiel@gmail.com",
     description="Middleware that allow check the times applied and the SQL amount used on any request and response process on django",
