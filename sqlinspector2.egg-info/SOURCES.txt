@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+sqlinspector2/__init__.py
+sqlinspector2/apps.py
+sqlinspector2/middleware.py
+sqlinspector2.egg-info/PKG-INFO
+sqlinspector2.egg-info/SOURCES.txt
+sqlinspector2.egg-info/dependency_links.txt
+sqlinspector2.egg-info/requires.txt
+sqlinspector2.egg-info/top_level.txt
